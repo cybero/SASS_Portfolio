@@ -1,7 +1,9 @@
 # SASS_Portfolio
 https://cybero.github.io/SASS_Portfolio/
 
-SASS sample portfolio project with the following elements:
+Sample portfolio project created for fun and to practice **SASS**.
+
+This project incorporated the following:
 
 - [x] HTML5
 - [x] CSS3
